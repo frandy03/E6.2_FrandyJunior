@@ -1,0 +1,20 @@
+body {
+  background-image: url(../img/fondo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.content img {
+  width: 30%;
+  height: 30%; }
+
+.content h1 {
+  font-family: 'Merienda One', cursive;
+  font-size: 20px;
+  color: #FFF; }
+
+.content {
+  font-family: 'Bad Script', cursive;
+  font-size: 15px;
+  color: #FFF; }
+
+/*# sourceMappingURL=p4.css.map */

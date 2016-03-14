@@ -1,0 +1,48 @@
+header {
+  list-style-type: absolute;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    font-family: 'Merienda One', cursive;
+    font-size: 12px;
+  }
+
+nav a {
+  display: inline-block;
+   color: white;
+   text-align: right;
+   padding: 15px 15px;
+   text-decoration: none;
+}
+
+nav a {
+  float: center;
+  }
+
+nav a :hover {
+  background-color: #111;
+}
+
+.content{
+  float: left;
+  width: 40%;
+}
+
+.anuncio{
+  float: left;
+  width: 40%;
+}
+
+.anuncio img {
+  width: 100%;
+  margin-top: 20%;
+  margin-left: 10%;
+}
+
+footer{
+  margin-top: 90%;
+  background-color: beige;
+  height: 30px;
+  font-family: 'Bad Script', cursive;
+  font-size: 15px;
+}
